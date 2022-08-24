@@ -75,7 +75,7 @@ CSS에서 `background` 혹은 `backgound-image` 속성으로 요소에 배경 �
 삽입할수 있습니다.
 
 
-# 블록(block) 코드 강조
+# 블록(block) 코드 강조 
 
 <a href="https://google.com" target="_blank">GOOGLE</a>
 
